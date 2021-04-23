@@ -3,6 +3,8 @@
     "coverage": {
       "/Users/jeffreymartinez/Desktop/Desktop/Code/ruby/tic-tac-toe-rb-ruby-intro-000/lib/tic_tac_toe.rb": [
         null,
+        1,
+        null,
         null,
         1,
         null,
@@ -96,6 +98,6 @@
         null
       ]
     },
-    "timestamp": 1619061090
+    "timestamp": 1619184887
   }
 }
